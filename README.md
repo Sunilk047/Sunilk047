@@ -12,6 +12,7 @@ I specialize in **Flutter, Dart, Clean Architecture, Bloc, Firebase, Supabase, R
 
 - 💼 Senior Flutter Engineer with 4+ years of experience
 - 📱 Building Android, iOS & Flutter Web applications
+- 🤖 Experienced with Jetpack Compose for native Android development
 - 🏦 Experience in FinTech, HRMS, eCommerce, Healthcare & IoT
 - 🏗️ Passionate about Clean Architecture & scalable code
 - 🌱 Currently learning AI integration and advanced Flutter performance optimization
@@ -23,13 +24,15 @@ I specialize in **Flutter, Dart, Clean Architecture, Bloc, Firebase, Supabase, R
 
 ### Languages
 - Dart
-- Java
 - Kotlin
+- Java
 - Python
 
-### Frameworks
+### Mobile Development
 - Flutter
 - Flutter Web
+- Jetpack Compose
+- Android SDK
 
 ### Architecture
 - Clean Architecture
@@ -45,6 +48,7 @@ I specialize in **Flutter, Dart, Clean Architecture, Bloc, Firebase, Supabase, R
 ### Database
 - SQLite
 - Hive
+- Shared Preference
 
 ### Tools
 - Git
